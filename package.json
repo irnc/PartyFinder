@@ -1,11 +1,11 @@
 {
   "name": "WebMatrixExpressSite",
   "version": "0.2.0",
-  "author": "The WebMatrix Team <webmatrix@microsoft.com>",
-  "description": "A simple boilerplate for building node applications on Windows Azure (or wherever)",
+  "author": "Alexpo & PaulZhagun <alexjob@ojooo.com>",
+  "description": "If you need search party? Download this app!",
   "contributors": [
     {
-      "name": "Justin Beckwith",
+      "name": "Paul Zhagun",
       "email": "justbe@microsoft.com"
     }
   ],
